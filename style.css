@@ -43,6 +43,7 @@ p{
 .bi{
     margin: 0 15px 0 20px;
     font-size: 5vh;
+    padding: 10px;
 }
 .trans{
     display: flex;
